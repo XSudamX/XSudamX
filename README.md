@@ -1,4 +1,4 @@
-[![Sudam's Banner](https://github.com/XSudamX/XSudamX/blob/main/assets/trippy-sun-dark.svg)](https://www.linkedin.com/in/sudam0x45/)
+[![Sudam's Banner](https://beta.designforventures.co/Free-Animated-SVG-Icons/warehouse/trippy-sun-dark.svg)](https://www.linkedin.com/in/sudam0x45/)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Sudam.
