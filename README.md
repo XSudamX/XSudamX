@@ -1,5 +1,5 @@
 <div align="center">
-Sudam's Banner](https://github.com/SamHerbert/SVG-Loaders/blob/master/svg-loaders/bars.svg)](https://www.linkedin.com/in/sudam0x45/)
+[![Sudam's Banner](https://github.com/SamHerbert/SVG-Loaders/blob/master/svg-loaders/bars.svg)](https://www.linkedin.com/in/sudam0x45/)
 </div>
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
